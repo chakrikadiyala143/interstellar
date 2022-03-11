@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Enna rascala" );
+       System.out.println( "Enna sona tu rab ne banaya" );
     }
 }
